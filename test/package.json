@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "./node_modules/@cucumber/cucumber/bin/cucumber-js",
+    "linting": "apigeelint -s ../apiproxy/ -f table.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apickli": "latest",
+    "cucumber": "latest",
+    "apigeelint": "latest"
+  }
+}

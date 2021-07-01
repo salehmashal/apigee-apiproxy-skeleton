@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="demo1">
+    <Basepaths>/</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1609750731118</CreatedAt>
+    <CreatedBy>saleh-jaz1@hotmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>demo1</DisplayName>
+    <LastModifiedAt>1609751534924</LastModifiedAt>
+    <LastModifiedBy>saleh-jaz1@hotmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:798ac2cf297b656fac0a554c7d06d01f1ba4829ead44bfa3ef7ad43556894420911098bf50b55ce9a901952c91fd1faf2f03b138c472f4198917678e4f6b2590:eu-west-1</ManifestVersion>
+    <Policies>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
