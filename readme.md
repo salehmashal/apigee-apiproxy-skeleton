@@ -29,7 +29,7 @@ The below table shows main content of the Apiproxy-readme file
 |Wiki link| Api proxy specs documentation link|
 |Apigee Resources| list of the Apiproxy Apigee Resources ex, KVMs, SharedFlows, Caches, VertualHosts, TargetServers...etc.
 
-#[Sample file](apiproxy-readme.md)
+[Sample file](apiproxy-readme.md)
 
 ----
 
