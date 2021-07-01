@@ -10,8 +10,10 @@ Demo Apiproxy
 
 [API Specifications Wiki](https://community.apigee.com/storage/attachments/1779-exco-210815-0736-70.pdf).
 ***
-###Apigee Resources:
 
+
+Apigee Resources:
+---
 
 ***Target Servers:***
 
